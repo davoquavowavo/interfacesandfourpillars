@@ -1,2 +1,7 @@
-package PACKAGE_NAME;public interface Vehicle {
+public interface Vehicle {
+    void changeGear(int a);
+
+    void speedUp(int a);
+
+    void applyBrakes(int a);
 }

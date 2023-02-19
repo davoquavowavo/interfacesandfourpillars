@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public interface FastFood {
+public interface FastFood {
+    String getName();
+
+    int getSize();
 }

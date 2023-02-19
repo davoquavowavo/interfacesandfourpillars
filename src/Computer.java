@@ -1,2 +1,9 @@
-package PACKAGE_NAME;public interface Computer {
+import java.util.ArrayList;
+
+public interface Computer {
+    String getName();
+
+    double getPrice();
+
+    ArrayList<String> getFeatures();
 }

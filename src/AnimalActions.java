@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public interface AnimalActions {
+public interface AnimalActions {
+    String makeSound();
 }
